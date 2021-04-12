@@ -1,7 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
-import { StyleSheet, Text, View, ImageBackground } from "react-native";
-import Colors from "./constants/Colors";
+import { StyleSheet, View } from "react-native";
 
 import CarItem from "./components/CardItem";
 
